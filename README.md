@@ -1,0 +1,1 @@
+# SOC2026-TheAlgorithmicMind
